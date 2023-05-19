@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World2 Staging Environment!";
+echo "Hello World!";
